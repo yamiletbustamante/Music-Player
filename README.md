@@ -68,6 +68,31 @@ music-player/
 │       ├── playlist.png
 │       └── mobile.png
 ```
+## Vista previa
+
+## Dashboard principal
+<img src="home.png" width="100%">
+
+---
+
+## Búsqueda de canciones
+<img src="search-results.png" width="100%">
+
+---
+
+## Reproducción activa
+<img src="playing.png" width="100%">
+
+---
+
+## Lista de resultados
+<img src="playlist.png" width="100%">
+
+---
+
+## Responsive móvil
+<img src="mobile.png" width="100%">
+
 
 ---
 ## API utilizada
