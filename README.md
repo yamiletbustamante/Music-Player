@@ -91,7 +91,7 @@ music-player/
 ---
 
 ## Responsive móvil
-<img src="mobile.jpeg" width="20%">
+<img src="mobile.jpeg" width="30%">
 
 
 ---
